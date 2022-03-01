@@ -256,6 +256,7 @@ footer p {
         display: block;
     }
     header img, header h2, header h3 {
+        margin: 0 auto;
         text-align: center;
     }
   }
